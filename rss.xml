@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liventis FibroScan — Blog Educativo</title>
+    <link>https://liventis.com/blog</link>
+    <description>Información confiable sobre salud hepática, FibroScan y diagnóstico no invasivo en El Salvador.</description>
+    <language>es-SV</language>
+    <atom:link href="https://liventis.com/rss.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Diabetes e Hígado Graso: La Relación de Riesgo que Pocos Conocen</title>
+      <link>https://liventis.com/blog/diabetes-higado-graso-relacion-riesgo</link>
+      <guid>https://liventis.com/blog/diabetes-higado-graso-relacion-riesgo</guid>
+      <pubDate>Tue, 31 Mar 2026 22:04:49 GMT</pubDate>
+      <description>El 70% de personas con diabetes tipo 2 tienen hígado graso. Conoce la relación entre diabetes y enfermedad hepática, y por qué necesitas un FibroScan.</description>
+    </item>
+
+    <item>
+      <title>FibroScan en El Salvador: Precio, Proceso y Dónde Hacerlo (2026)</title>
+      <link>https://liventis.com/blog/fibroscan-el-salvador-precio-donde-hacerlo</link>
+      <guid>https://liventis.com/blog/fibroscan-el-salvador-precio-donde-hacerlo</guid>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Guía completa sobre FibroScan en El Salvador: cuánto cuesta, qué seguros lo cubren, cómo es el proceso y dónde realizarlo en San Salvador.</description>
+    </item>
+
+    <item>
+      <title>Fibrosis Hepática: Grados F0, F1, F2, F3 y F4 Explicados</title>
+      <link>https://liventis.com/blog/fibrosis-hepatica-grados-f0-f1-f2-f3-f4</link>
+      <guid>https://liventis.com/blog/fibrosis-hepatica-grados-f0-f1-f2-f3-f4</guid>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Entiende qué significan los grados de fibrosis hepática F0 a F4, cómo se diagnostican con FibroScan y cuáles son reversibles.</description>
+    </item>
+
+    <item>
+      <title>Síntomas de Cirrosis Hepática: Cómo Detectarla a Tiempo</title>
+      <link>https://liventis.com/blog/sintomas-cirrosis-hepatica-deteccion-temprana</link>
+      <guid>https://liventis.com/blog/sintomas-cirrosis-hepatica-deteccion-temprana</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Conoce los síntomas tempranos y tardíos de la cirrosis hepática, sus causas principales y cómo FibroScan puede detectarla antes de que sea tarde.</description>
+    </item>
+
+    <item>
+      <title>Preparación para FibroScan: Qué Esperar el Día de tu Cita</title>
+      <link>https://liventis.com/blog/preparacion-fibroscan-que-esperar</link>
+      <guid>https://liventis.com/blog/preparacion-fibroscan-que-esperar</guid>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Todo lo que necesitas saber para prepararte para tu estudio FibroScan: ayuno, vestimenta, duración, qué sientes durante el examen y cómo leer tus resultados.</description>
+    </item>
+
+    <item>
+      <title>Hígado Graso: Tratamiento y Diagnóstico en El Salvador</title>
+      <link>https://liventis.com/blog/higado-graso-tratamiento-el-salvador</link>
+      <guid>https://liventis.com/blog/higado-graso-tratamiento-el-salvador</guid>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+      <description>La enfermedad del hígado graso no alcohólico (EHGNA) afecta a millones de personas. Conoce cómo detectarla y tratarla a tiempo en San Salvador.</description>
+    </item>
+
+    <item>
+      <title>Precio del FibroScan en El Salvador: Guía Completa 2026</title>
+      <link>https://liventis.com/blog/precio-fibroscan-el-salvador</link>
+      <guid>https://liventis.com/blog/precio-fibroscan-el-salvador</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Todo lo que necesitas saber sobre el costo de un estudio FibroScan en El Salvador, cobertura de seguros y opciones de pago.</description>
+    </item>
+
+    <item>
+      <title>Elastografía Hepática vs Biopsia: ¿Cuál es Mejor?</title>
+      <link>https://liventis.com/blog/elastografia-hepatica-vs-biopsia</link>
+      <guid>https://liventis.com/blog/elastografia-hepatica-vs-biopsia</guid>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Comparación detallada entre la elastografía hepática transitoria (FibroScan) y la biopsia de hígado. Ventajas, desventajas y cuándo elegir cada una.</description>
+    </item>
+  </channel>
+</rss>

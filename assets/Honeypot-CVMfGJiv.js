@@ -1,0 +1,1 @@
+import{j as e}from"./vendor-ui-AjK4W-eT.js";import{r as o}from"./vendor-react-L8HeSuLI.js";const p=o.forwardRef((a,t)=>e.jsx("input",{ref:t,type:"text",name:"website",tabIndex:-1,autoComplete:"off","aria-hidden":"true",style:{position:"absolute",left:"-9999px",top:"-9999px",width:1,height:1,opacity:0,pointerEvents:"none"}}));p.displayName="Honeypot";export{p as H};
